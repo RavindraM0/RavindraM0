@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 
 # Hello World!, I'm Ravindra MO A Passionate Developer 👋🏼:
 🛜 currently working on my own projects <br>👨🏼‍🎓 studying  computer science at Srinivas University <br> 
