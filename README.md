@@ -1,4 +1,8 @@
-<!-- ============================================================
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="RavindraM0's GitHub profile" src="dark_mode.svg" />
+</picture><!-- ============================================================
 GitHub profile README for Ravindra M O (github.com/ravindram0)
 HOW TO USE:
 1. Create a PUBLIC repository named exactly: ravindram0
