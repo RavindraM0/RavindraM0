@@ -4,11 +4,11 @@
   <img src="https://www.gitskins.com/api/section/hero?username=ravindram0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153613031%3Fu%3Dcb583609c34f4df919e896d29433624fe36e207b%26v%3D4" alt="ravindram0 hero visual" />
 </p>
 
-**Ravindra MO** · Frontend or full-stack engineer
+**Ravindra MO** · ASPIRING CLOUD AND DEVOPS ENGINER
 
 ## Operating principles
 
-<pre><code>ROLE        = Frontend or full-stack engineer
+<pre><code>ROLE        = OPN TO WORK IN CLOUD AND DEVOPS 
 LOCATION    = remote
 PUBLIC_REPOS = 34
 COMMUNITY   = 8 followers</code></pre>
