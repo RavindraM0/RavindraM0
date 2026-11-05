@@ -1,4 +1,4 @@
-<!-- Header: animated waving banner -->
+   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" /><!-- Header: animated waving banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00d4aa&height=220&section=header&text=Ravindra%20M%20O&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cloud%20%26%20DevOps%20Engineer&descAlignY=60&descSize=20" alt="Ravindra M O banner" />
 </p>
